@@ -14,7 +14,7 @@ organizations:
   url: https://www.xidian.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include data pricing and private machine learning.
 
 # Interests to show in About widget
 interests:
@@ -48,7 +48,7 @@ social:
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/Willk1209
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/
@@ -61,7 +61,7 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "yaokuijiang@stu.xidian.edu.cn"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
